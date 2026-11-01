@@ -1,0 +1,9 @@
+name,age,email,marks,phone,city
+Mateen,23,mateen@gmail.com,85,03001234567,Lahore
+Ali,21,ali@gmail.com,90,03111234567,Karachi
+Ahmed,25,ahmed@gmail.com,75,03221234567,Islamabad
+Sara,19,sara@gmail.com,95,03331234567,Lahore
+John,17,invalid-email,110,123,London
+Usman,twenty,usman@gmail.com,80,03441234567,Lahore
+A,22,test@gmail.com,45,03001234568,Lahore
+Hassan,24,hassan@gmail.com,88,03001234567,Lahore
